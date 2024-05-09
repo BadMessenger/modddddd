@@ -1,0 +1,10 @@
+Some error with file: Igor Talkov - Letnii Dozhd 1995.mp3
+System.IO.IOException: The process cannot access the file because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   at MusicGenerator.convertFolder(String type)
+Some error with file: Igor Talkov - Letnii Dozhd 1995.ogg
+System.IO.IOException: The process cannot access the file because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   at MusicGenerator.convertFolder(String type)

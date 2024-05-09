@@ -1,0 +1,351 @@
+module Tsarcraft
+{
+	imports
+	{
+		Base
+	}
+/********************Generated Music Carriers********************/
+
+	model VinylAriyaIgraSOgnyem1989Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/AriyaIgraSOgnyem1989,
+		scale	=	0.0012,
+	}
+
+	item VinylAriyaIgraSOgnyem1989
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Ariya - Igra S Ognyem 1989,
+		WorldStaticModel = Tsarcraft.VinylAriyaIgraSOgnyem1989Model,
+	}
+
+	model VinylAriyaTorero1988Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/AriyaTorero1988,
+		scale	=	0.0012,
+	}
+
+	item VinylAriyaTorero1988
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Ariya - Torero 1988,
+		WorldStaticModel = Tsarcraft.VinylAriyaTorero1988Model,
+	}
+
+	model VinylEolikaKaravana1985Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/EolikaKaravana1985,
+		scale	=	0.0012,
+	}
+
+	item VinylEolikaKaravana1985
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Eolika - Karavana 1985,
+		WorldStaticModel = Tsarcraft.VinylEolikaKaravana1985Model,
+	}
+
+	model VinylEolikaNokitirne1983Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/EolikaNokitirne1983,
+		scale	=	0.0012,
+	}
+
+	item VinylEolikaNokitirne1983
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Eolika - Nokitirne 1983,
+		WorldStaticModel = Tsarcraft.VinylEolikaNokitirne1983Model,
+	}
+
+	model VinylEolikaProstiyeSlova1982Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/EolikaProstiyeSlova1982,
+		scale	=	0.0012,
+	}
+
+	item VinylEolikaProstiyeSlova1982
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl Eolika - Prostiye Slova 1982,
+		WorldStaticModel = Tsarcraft.VinylEolikaProstiyeSlova1982Model,
+	}
+
+	model VinylForumBelayaNoch1987Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/ForumBelayaNoch1987,
+		scale	=	0.0012,
+	}
+
+	item VinylForumBelayaNoch1987
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Forum Belaya Noch 1987,
+		WorldStaticModel = Tsarcraft.VinylForumBelayaNoch1987Model,
+	}
+
+	model VinylKinoGruppaKrovi1987Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/KinoGruppaKrovi1987,
+		scale	=	0.0012,
+	}
+
+	item VinylKinoGruppaKrovi1987
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Kino - Gruppa Krovi 1987,
+		WorldStaticModel = Tsarcraft.VinylKinoGruppaKrovi1987Model,
+	}
+
+	model VinylKinoNamSToboi1990Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/KinoNamSToboi1990,
+		scale	=	0.0012,
+	}
+
+	item VinylKinoNamSToboi1990
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Kino - Nam S Toboi 1990,
+		WorldStaticModel = Tsarcraft.VinylKinoNamSToboi1990Model,
+	}
+
+	model VinylKinoXochuPeremen1989Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/KinoXochuPeremen1989,
+		scale	=	0.0012,
+	}
+
+	item VinylKinoXochuPeremen1989
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Kino - Xochu Peremen 1989,
+		WorldStaticModel = Tsarcraft.VinylKinoXochuPeremen1989Model,
+	}
+
+	model VinylKinoZvezdaPoImeniSolnste1988Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/KinoZvezdaPoImeniSolnste1988,
+		scale	=	0.0012,
+	}
+
+	item VinylKinoZvezdaPoImeniSolnste1988
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Kino - Zvezda Po Imeni Solnste 1988,
+		WorldStaticModel = Tsarcraft.VinylKinoZvezdaPoImeniSolnste1988Model,
+	}
+
+	model VinylMirazhMuzykaNasSvizala1989Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/MirazhMuzykaNasSvizala1989,
+		scale	=	0.0012,
+	}
+
+	item VinylMirazhMuzykaNasSvizala1989
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Mirazh - Muzyka Nas Svizala 1989,
+		WorldStaticModel = Tsarcraft.VinylMirazhMuzykaNasSvizala1989Model,
+	}
+
+	model VinylMirazhVideo1987Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/MirazhVideo1987,
+		scale	=	0.0012,
+	}
+
+	item VinylMirazhVideo1987
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Mirazh - Video 1987,
+		WorldStaticModel = Tsarcraft.VinylMirazhVideo1987Model,
+	}
+
+	model VinylNikolaiGnatyukPtitsaSchastiye1982Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/NikolaiGnatyukPtitsaSchastiye1982,
+		scale	=	0.0012,
+	}
+
+	item VinylNikolaiGnatyukPtitsaSchastiye1982
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Nikolai Gnatyuk - Ptitsa Schastiye 1982,
+		WorldStaticModel = Tsarcraft.VinylNikolaiGnatyukPtitsaSchastiye1982Model,
+	}
+
+	model VinylPlamyaATyOdessa1987Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/PlamyaATyOdessa1987,
+		scale	=	0.0012,
+	}
+
+	item VinylPlamyaATyOdessa1987
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Plamya - A Ty Odessa 1987,
+		WorldStaticModel = Tsarcraft.VinylPlamyaATyOdessa1987Model,
+	}
+
+	item VinylPlamyaLabirint1984
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Plamya - Labirint 1984,
+		WorldStaticModel = Tsarcraft.TCVinylrecord11,
+	}
+
+	item VinylPlamyaPokaLyubim1978
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Plamya - Poka Lyubim 1978,
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylPlamyaBeliyeKrylya1979
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Plamya Beliye Krylya 1979,
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylSamosvetyAliBaba1984
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Samosvety - Ali Baba 1984,
+		WorldStaticModel = Tsarcraft.TCVinylrecord1,
+	}
+
+	item VinylSamosvetyVseChtovZhiznEstuMenya1979
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Samosvety - Vse Chto v Zhizn Est u Menya 1979,
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	model VinylValeriiLeontevPoletNaDeltaplane1984Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/ValeriiLeontevPoletNaDeltaplane1984,
+		scale	=	0.0012,
+	}
+
+	item VinylValeriiLeontevPoletNaDeltaplane1984
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Valerii Leontev - Polet Na Deltaplane 1984,
+		WorldStaticModel = Tsarcraft.VinylValeriiLeontevPoletNaDeltaplane1984Model,
+	}
+
+	model VinylVesyelieRebyataGranitniGorod1987Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/VesyelieRebyataGranitniGorod1987,
+		scale	=	0.0012,
+	}
+
+	item VinylVesyelieRebyataGranitniGorod1987
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Vesyelie Rebyata - Granitni Gorod 1987,
+		WorldStaticModel = Tsarcraft.VinylVesyelieRebyataGranitniGorod1987Model,
+	}
+
+	model VinylYallaUchkuduk1983Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/YallaUchkuduk1983,
+		scale	=	0.0012,
+	}
+
+	item VinylYallaUchkuduk1983
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Yalla - Uchkuduk 1983,
+		WorldStaticModel = Tsarcraft.VinylYallaUchkuduk1983Model,
+	}
+
+	item VinylZdraztvuiPesnyaOgonMyLyubimDisko1979
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Zdraztvui Pesnya - Ogon My Lyubim Disko 1979,
+		WorldStaticModel = Tsarcraft.TCVinylrecord1,
+	}
+
+	model VinylZemlianeTravaUDoma1983Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/ZemlianeTravaUDoma1983,
+		scale	=	0.0012,
+	}
+
+	item VinylZemlianeTravaUDoma1983
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Zemliane - Trava U Doma 1983,
+		WorldStaticModel = Tsarcraft.VinylZemlianeTravaUDoma1983Model,
+	}
+
+}

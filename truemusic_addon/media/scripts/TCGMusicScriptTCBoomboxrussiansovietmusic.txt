@@ -1,0 +1,513 @@
+module Tsarcraft
+{
+	imports
+	{
+		Base
+	}
+/********************Generated Music Carriers********************/
+
+	item CassetteAlliyanceNaZare1984
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Alliyance - Na Zare 1984,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteAriyaIgraSOgnyem1989
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Ariya - Igra S Ognyem 1989,
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteAriyaTorero1988
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Ariya - Torero 1988,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteAriyaUlitsaRoz1988
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Ariya - Ulitsa Roz 1988,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteElektroklubIgrushka1990
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Elektroklub - Igrushka 1990,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteElektroklubNeBegi1988
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Elektroklub - Ne Begi 1988,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteElektroklubPolchasa1990
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Elektroklub - Polchasa 1990,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteElektroklubPosledniyeSvidaniye1989
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Elektroklub - Posledniye Svidaniye 1989,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteElektroklubTyPomnishMoskvu1987
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Elektroklub - Ty Pomnish Moskvu 1987,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteElektroklubProshalnyiDen1987
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Elektroklub Proshalnyi Den 1987,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteForumDavaiteSosvinimsya1987
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Forum - Davaite Sosvinimsya 1987,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteForumOstrovok1987
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Forum - Ostrovok 1987,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteForumBelayaNoch1987
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Forum Belaya Noch 1987,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteIgorTalkovLetniiDozhd1995
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Igor Talkov - Letnii Dozhd 1995,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteIgorTalkovYaVernus1991
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Igor Talkov - Ya Vernus 1991,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteIgorTalkovChistviyePrudy1989
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Igor Talkov Chistviye Prudy 1989,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteKarMenChioChioSan1990
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Kar Men - Chio Chio San 1990,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteKinoGruppaKrovi1987
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Kino - Gruppa Krovi 1987,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteKinoNamSToboi1990
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Kino - Nam S Toboi 1990,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteKinoXochuPeremen1989
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Kino - Xochu Peremen 1989,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteKinoZvezdaPoImeniSolnste1988
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Kino - Zvezda Po Imeni Solnste 1988,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteKomissarEtiGlaza1991
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Komissar - Eti Glaza 1991,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteKomissarNasheVremyaPrishlo1991
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Komissar - Nashe Vremya Prishlo 1991,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteKomissarTyUidyesh1991
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Komissar - Ty Uidyesh 1991,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteLyubeKombat1992
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Lyube - Kombat 1992,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteMikxailMuromovAriadna1990
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Mikxail Muromov - Ariadna 1990,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteMikxailMuromovMezhduNamiTonkiiLyed1990
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Mikxail Muromov - Mezhdu Nami Tonkii Lyed 1990,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteMikxailMuromovYablokiNaSnegu1989
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Mikxail Muromov - Yabloki Na Snegu 1989,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteMirazhMuzykaNasSvizala1989
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Mirazh - Muzyka Nas Svizala 1989,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteMirazhVideo1987
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Mirazh - Video 1987,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteOlegKatsuraEtazhi1989
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Oleg Katsura - Etazhi 1989,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteOriginalSenKaidanBilisan1981
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Original - Sen Kaidan Bilisan 1981,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassettePlamyaATyOdessa1987
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Plamya - A Ty Odessa 1987,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassettePlamyaLabirint1984
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Plamya - Labirint 1984,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassettePlamyaPokaLyubim1978
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Plamya - Poka Lyubim 1978,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassettePlamyaBeliyeKrylya1979
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Plamya Beliye Krylya 1979,
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteRomaZhukovYaLyublyuVasDevchonkiiYaLyublyuVasMalchiki1989
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Roma Zhukov - Ya Lyublyu Vas Devchonkii Ya Lyublyu Vas Malchiki 1989,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteRomaZhukovDevchonkiMoiDevchonki1992
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Roma Zhukov Devchonki Moi Devchonki 1992,
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteRusyaAleNeViryu1990
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Rusya - Ale Ne Viryu 1990,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteRusyaBudShoBude1990
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Rusya - Bud Sho Bude 1990,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteRusyaCharivneLyusertse1989
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Rusya - Charivne Lyusertse 1989,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteRusyaDaruiMeniMamo1990
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Rusya - Darui Meni Mamo 1990,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteRusyaNeStiiPidViknom1989
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Rusya - Ne Stii Pid Viknom 1989,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteRusyaPopelyushka1991
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Rusya - Popelyushka 1991,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteRusyaVorozhka1989
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Rusya - Vorozhka 1989,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteSamosvetyAliBaba1984
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Samosvety - Ali Baba 1984,
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteSamosvetyVseChtovZhiznEstuMenya1979
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Samosvety - Vse Chto v Zhizn Est u Menya 1979,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteVadimKazachenkoNoch1996
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Vadim Kazachenko - Noch 1996,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteVadimKazachenkoSiren1993
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Vadim Kazachenko - Siren 1993,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteVadimKazachenkoZheltyeRozy1989
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Vadim Kazachenko - Zheltye Rozy 1989,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteVesyelieRebyataGranitniGorod1987
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Vesyelie Rebyata - Granitni Gorod 1987,
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteVesyelieRebyataZvezdochyet1989
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Vesyelie Rebyata - Zvezdochyet 1989,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteYallaUchkuduk1983
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Yalla - Uchkuduk 1983,
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteZdraztvuiPesnyaOgonMyLyubimDisko1979
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Zdraztvui Pesnya - Ogon My Lyubim Disko 1979,
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteZdraztvuiPesnyaSinyayaPesnya1979
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Zdraztvui Pesnya - Sinyaya Pesnya 1979,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteZemlianeTravaUDoma1983
+	{
+		Type			=	Normal,
+		Weight			=	0.2,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Zemliane - Trava U Doma 1983,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+}

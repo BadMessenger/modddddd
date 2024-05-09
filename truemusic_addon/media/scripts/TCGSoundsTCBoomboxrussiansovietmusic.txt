@@ -1,0 +1,563 @@
+module Tsarcraft
+{
+	sound CassetteAlliyanceNaZare1984
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Alliyance - Na Zare 1984.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteAriyaIgraSOgnyem1989
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Ariya - Igra S Ognyem 1989.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteAriyaTorero1988
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Ariya - Torero 1988.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteAriyaUlitsaRoz1988
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Ariya - Ulitsa Roz 1988.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteElektroklubIgrushka1990
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Elektroklub - Igrushka 1990.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteElektroklubNeBegi1988
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Elektroklub - Ne Begi 1988.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteElektroklubPolchasa1990
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Elektroklub - Polchasa 1990.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteElektroklubPosledniyeSvidaniye1989
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Elektroklub - Posledniye Svidaniye 1989.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteElektroklubTyPomnishMoskvu1987
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Elektroklub - Ty Pomnish Moskvu 1987.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteElektroklubProshalnyiDen1987
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Elektroklub Proshalnyi Den 1987.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteForumDavaiteSosvinimsya1987
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Forum - Davaite Sosvinimsya 1987.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteForumOstrovok1987
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Forum - Ostrovok 1987.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteForumBelayaNoch1987
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Forum Belaya Noch 1987.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteIgorTalkovLetniiDozhd1995
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Igor Talkov - Letnii Dozhd 1995.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteIgorTalkovYaVernus1991
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Igor Talkov - Ya Vernus 1991.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteIgorTalkovChistviyePrudy1989
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Igor Talkov Chistviye Prudy 1989.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKarMenChioChioSan1990
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kar Men - Chio Chio San 1990.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKinoGruppaKrovi1987
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kino - Gruppa Krovi 1987.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKinoNamSToboi1990
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kino - Nam S Toboi 1990.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKinoXochuPeremen1989
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kino - Xochu Peremen 1989.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKinoZvezdaPoImeniSolnste1988
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kino - Zvezda Po Imeni Solnste 1988.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKomissarEtiGlaza1991
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Komissar - Eti Glaza 1991.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKomissarNasheVremyaPrishlo1991
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Komissar - Nashe Vremya Prishlo 1991.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKomissarTyUidyesh1991
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Komissar - Ty Uidyesh 1991.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteLyubeKombat1992
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Lyube - Kombat 1992.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteMikxailMuromovAriadna1990
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Mikxail Muromov - Ariadna 1990.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteMikxailMuromovMezhduNamiTonkiiLyed1990
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Mikxail Muromov - Mezhdu Nami Tonkii Lyed 1990.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteMikxailMuromovYablokiNaSnegu1989
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Mikxail Muromov - Yabloki Na Snegu 1989.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteMirazhMuzykaNasSvizala1989
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Mirazh - Muzyka Nas Svizala 1989.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteMirazhVideo1987
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Mirazh - Video 1987.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteOlegKatsuraEtazhi1989
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Oleg Katsura - Etazhi 1989.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteOriginalSenKaidanBilisan1981
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Original - Sen Kaidan Bilisan 1981.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassettePlamyaATyOdessa1987
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Plamya - A Ty Odessa 1987.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassettePlamyaLabirint1984
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Plamya - Labirint 1984.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassettePlamyaPokaLyubim1978
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Plamya - Poka Lyubim 1978.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassettePlamyaBeliyeKrylya1979
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Plamya Beliye Krylya 1979.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteRomaZhukovYaLyublyuVasDevchonkiiYaLyublyuVasMalchiki1989
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Roma Zhukov - Ya Lyublyu Vas Devchonkii Ya Lyublyu Vas Malchiki 1989.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteRomaZhukovDevchonkiMoiDevchonki1992
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Roma Zhukov Devchonki Moi Devchonki 1992.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteRusyaAleNeViryu1990
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Rusya - Ale Ne Viryu 1990.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteRusyaBudShoBude1990
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Rusya - Bud Sho Bude 1990.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteRusyaCharivneLyusertse1989
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Rusya - Charivne Lyusertse 1989.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteRusyaDaruiMeniMamo1990
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Rusya - Darui Meni Mamo 1990.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteRusyaNeStiiPidViknom1989
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Rusya - Ne Stii Pid Viknom 1989.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteRusyaPopelyushka1991
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Rusya - Popelyushka 1991.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteRusyaVorozhka1989
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Rusya - Vorozhka 1989.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSamosvetyAliBaba1984
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Samosvety - Ali Baba 1984.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSamosvetyVseChtovZhiznEstuMenya1979
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Samosvety - Vse Chto v Zhizn Est u Menya 1979.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteVadimKazachenkoNoch1996
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Vadim Kazachenko - Noch 1996.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteVadimKazachenkoSiren1993
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Vadim Kazachenko - Siren 1993.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteVadimKazachenkoZheltyeRozy1989
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Vadim Kazachenko - Zheltye Rozy 1989.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteVesyelieRebyataGranitniGorod1987
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Vesyelie Rebyata - Granitni Gorod 1987.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteVesyelieRebyataZvezdochyet1989
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Vesyelie Rebyata - Zvezdochyet 1989.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteYallaUchkuduk1983
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Yalla - Uchkuduk 1983.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteZdraztvuiPesnyaOgonMyLyubimDisko1979
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Zdraztvui Pesnya - Ogon My Lyubim Disko 1979.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteZdraztvuiPesnyaSinyayaPesnya1979
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Zdraztvui Pesnya - Sinyaya Pesnya 1979.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteZemlianeTravaUDoma1983
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Zemliane - Trava U Doma 1983.ogg,
+			distanceMax = 75,
+		}
+	}
+}

@@ -1,0 +1,243 @@
+module Tsarcraft
+{
+	sound VinylAriyaIgraSOgnyem1989
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Ariya - Igra S Ognyem 1989.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylAriyaTorero1988
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Ariya - Torero 1988.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylEolikaKaravana1985
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Eolika - Karavana 1985.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylEolikaNokitirne1983
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Eolika - Nokitirne 1983.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylEolikaProstiyeSlova1982
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Eolika - Prostiye Slova 1982.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylForumBelayaNoch1987
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Forum Belaya Noch 1987.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylKinoGruppaKrovi1987
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Kino - Gruppa Krovi 1987.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylKinoNamSToboi1990
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Kino - Nam S Toboi 1990.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylKinoXochuPeremen1989
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Kino - Xochu Peremen 1989.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylKinoZvezdaPoImeniSolnste1988
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Kino - Zvezda Po Imeni Solnste 1988.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylMirazhMuzykaNasSvizala1989
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Mirazh - Muzyka Nas Svizala 1989.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylMirazhVideo1987
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Mirazh - Video 1987.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylNikolaiGnatyukPtitsaSchastiye1982
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Nikolai Gnatyuk - Ptitsa Schastiye 1982.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylPlamyaATyOdessa1987
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Plamya - A Ty Odessa 1987.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylPlamyaLabirint1984
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Plamya - Labirint 1984.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylPlamyaPokaLyubim1978
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Plamya - Poka Lyubim 1978.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylPlamyaBeliyeKrylya1979
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Plamya Beliye Krylya 1979.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylSamosvetyAliBaba1984
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Samosvety - Ali Baba 1984.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylSamosvetyVseChtovZhiznEstuMenya1979
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Samosvety - Vse Chto v Zhizn Est u Menya 1979.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylValeriiLeontevPoletNaDeltaplane1984
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Valerii Leontev - Polet Na Deltaplane 1984.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylVesyelieRebyataGranitniGorod1987
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Vesyelie Rebyata - Granitni Gorod 1987.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylYallaUchkuduk1983
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Yalla - Uchkuduk 1983.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylZdraztvuiPesnyaOgonMyLyubimDisko1979
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Zdraztvui Pesnya - Ogon My Lyubim Disko 1979.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound VinylZemlianeTravaUDoma1983
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCVinylplayer/Zemliane - Trava U Doma 1983.ogg,
+			distanceMax = 75,
+		}
+	}
+}
